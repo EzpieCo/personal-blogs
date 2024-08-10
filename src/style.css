@@ -52,12 +52,13 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
-  --color-text: #2e353f;
-  --color-text-light: #4f5969;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
-  --color-accent: #d1dce5;
+  --color-primary: #ff5722; /* Vibrant orange for primary color */
+  --color-text: #f5f5f5; /* Light gray for text */
+  --color-text-light: #e0e0e0; /* Slightly lighter gray for secondary text */
+  --color-heading: #ff7043; /* Warm red-orange for headings */
+  --color-heading-black: #e64a19; /* Strong red for main headings */
+  --color-accent: #d32f2f; /* Deep red for accents */
+  --background-color: #121212; /* Very dark background for dark mode */
 }
 
 /* HTML elements */
@@ -69,6 +70,7 @@
 }
 
 html {
+  background-color: var(--background-color);
   line-height: var(--lineHeight-normal);
   font-size: var(--fontSize-root);
   -webkit-font-smoothing: antialiased;
