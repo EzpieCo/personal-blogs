@@ -319,6 +319,10 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+img {
+  width: 100%; /* Images where overflowing this will prevent */
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
