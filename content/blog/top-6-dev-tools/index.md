@@ -58,7 +58,7 @@ _Bundle size of lambda_
 
 If you want to create something with AWS then you need this thing... also in case you use Azure it's available, but I mean, like... you know.
 
-![description](https://imgflip.com/i/8nzqxc)
+![description](https://i.imgflip.com/8nzqxc.jpg)
 
 But still, it's useful.
 
