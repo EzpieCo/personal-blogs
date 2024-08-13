@@ -2,7 +2,7 @@
 title: Big O notation For dummies
 date: 2024-06-29
 description: Big O notation made easy for dummies with gifs
-thumbnail: "./big_o_for_dummies.png"
+thumbnail: "./index.png"
 ---
 
 When it comes to programming there is one thing we all dev suck at... well mostly the new devs. And that's big O notation. So here's what Big O is and why it matters.

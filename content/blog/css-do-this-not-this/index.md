@@ -2,7 +2,7 @@
 title: CSS Do this Not This
 date: 2024-04-20
 description: useful CSS tricks to make you hate CSS even more
-thumbnail: "./css_do_this_not_this.png"
+thumbnail: "./index.png"
 ---
 
 CSS or Cascading Style Sheets introduced back in 1996 marked a turning point for making a website, look more like a website.

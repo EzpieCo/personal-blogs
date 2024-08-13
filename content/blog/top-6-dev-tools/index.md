@@ -2,7 +2,7 @@
 title: Top 6 Best Dev Tools You Must Use!
 date: 2024-04-25
 description: My 6 personal favorite dev tools that I use
-thumbnail: "./top_6_dev_tools.png"
+thumbnail: "./index.png"
 ---
 
 It's fun to code, but it's also annoying to code.
