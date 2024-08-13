@@ -80,7 +80,7 @@ Just take a look at me using this... Google Chrome extension, on my site.
 
 ![description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iz5qrdbi9oo23bgvl90k.png)
 
-In case you don't use lambda... really? It's the best social media app on Earth, so why not? The search bar isn't that long, it's just adjusted with the help of Visbug!
+In case you don't use [lambda](https://github.com/ezpie1/lambda-official)... really? It's the best social media app on Earth, so why not? The search bar isn't that long, it's just adjusted with the help of Visbug!
 
 Cool right?
 
