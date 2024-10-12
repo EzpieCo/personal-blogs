@@ -1,6 +1,6 @@
 ---
 title: "Let's build Privatus in public: Day 7"
-date: 2024-09-30
+date: 2024-10-12
 description: Building privatus in public. This is day 7 - day 11 report. Implementing the design for the blog view, and profile view in code, along side other functionality.
 thumbnail: "./index.png"
 ---
