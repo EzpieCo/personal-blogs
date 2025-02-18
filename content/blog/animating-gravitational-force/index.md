@@ -1,6 +1,6 @@
 ---
 title: Animating Gravitational Force
-date: 2024-06-29
+date: 2025-02-18
 description: Using motion canvas to animate how a simple 2 body system works
 thumbnail: "./index.png"
 ---
