@@ -1,6 +1,6 @@
 ---
 title: What your Keyboard Says about You
-date: 2025-02-18
+date: 2025-02-28
 description: Your life choices tell about your personality, and because of that, your keyboard kinda tells about what kind of a person you are. Are you a nerd? Or a pro? Find out
 thumbnail: "./index.png"
 ---
